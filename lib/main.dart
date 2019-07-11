@@ -217,23 +217,3 @@ class _MyHomePageState extends State<MyHomePage> {
         ));
   }
 }
-// Row(
-//   children: <Widget>[
-//     Padding(
-//       padding: const EdgeInsets.only(left: 150.0),
-//       child: Text('Don\'t have an account?'),
-//     ),
-//     Padding(
-//       padding: const EdgeInsets.only(left: 5.0),
-//       child: InkWell(
-//         onTap: (){},
-//         child: Text(
-//           'Sign up',
-//           style: TextStyle(
-//             color: Colors.purple
-//           ),
-//         ),
-//       )
-//     )
-//   ],
-// )
